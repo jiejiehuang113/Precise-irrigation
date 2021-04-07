@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:51:21.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="m6FVMCQ8aXiEkdtMaaQT" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:53:30.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="imxFC44GsvB6lX9HA2Q1" version="14.5.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="590" y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZYwIPlytzG-EjPIgdLX-16" value="内光强度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="500" y="318.75" width="60" height="60" as="geometry" />
+          <mxGeometry x="500" y="312.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZYwIPlytzG-EjPIgdLX-17" value="外光强度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="420" y="372.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="400" y="372.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZYwIPlytzG-EjPIgdLX-23" value="机械控制组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="897.5" width="80" height="42.5" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="670" y="312.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZYwIPlytzG-EjPIgdLX-43" value="大棚编号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="380" y="470" width="70" height="70" as="geometry" />
+          <mxGeometry x="370" y="460" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WZYwIPlytzG-EjPIgdLX-44" value="大棚入网IP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="550" width="70" height="70" as="geometry" />
